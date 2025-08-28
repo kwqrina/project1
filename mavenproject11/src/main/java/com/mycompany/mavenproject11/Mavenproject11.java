@@ -8,7 +8,7 @@ package com.mycompany.mavenproject11;
  *
  * @author ekate
  */
-public class HelloWorld {
+public class HelloWorld {            //мотя люблю тебя
     public static void main(String[] args) {
         System.out.println("Привет, мир! ������");
         System.out.println("Сегодня: " + java.time.LocalDate.now());
