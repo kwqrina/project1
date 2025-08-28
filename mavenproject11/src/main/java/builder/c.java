@@ -8,6 +8,6 @@ package builder;
  *
  * @author macbookair
  */
-public class а {ппппиииу5тр5ьтуктуктькеькеье
+public class c {ппппиииу5тр5ьтуктуктькеькеье
     
 }

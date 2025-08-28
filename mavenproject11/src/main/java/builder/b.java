@@ -8,7 +8,7 @@ package builder;
  *
  * @author ekate
  */
-public class Ork {
+public class b {
     fgshdjrftgkyh
     
 }
