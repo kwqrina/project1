@@ -8,7 +8,7 @@ package com.mycompany.mavenproject11;
  *
  * @author ekate
  */
-public class Mavenproject11 {
+public class Mavenproject11 {                    //задание: лдорпвыдлодлпоыу
 
     public static void main(String[] args) {
         System.out.println("4!");
