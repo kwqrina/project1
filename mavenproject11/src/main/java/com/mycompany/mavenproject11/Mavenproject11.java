@@ -9,7 +9,7 @@ package com.mycompany.mavenproject11;
  * @author ekate
  */
 
-//задание, бла бла
+
 public class Mavenproject11{
     
    public static void main(String[] args) {
