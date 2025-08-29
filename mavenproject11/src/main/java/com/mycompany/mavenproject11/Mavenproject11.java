@@ -21,3 +21,17 @@ public class Mavenproject11{
 //давай быстрее 
 //все, я копировал все поэжтому начало в кадлом файле повторяется, исправь сама правильно
 //ответь
+//src/
+//├── model/
+//│   ├── UserType.java
+//│   └── User.java
+//├── factory/
+//│   └── UserFactory.java
+//├── publisher/
+//│   ├── EventPublisher.java
+//│   └── PremiumButtonPublisher.java
+//├── controller/
+//│   └── UserController.java
+//└── view/
+//    └── UserApp.java
+//вот так по папкам распредели
