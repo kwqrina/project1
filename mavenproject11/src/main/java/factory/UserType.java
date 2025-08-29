@@ -11,3 +11,15 @@ package factory;
 public class UserType {
     
 }
+// Файл: UserType.java
+package model;
+
+/**
+ * Enum типов пользователей
+ * REGULAR - обычный пользователь
+ * PREMIUM - премиум пользователь
+ */
+public enum UserType {
+    REGULAR,
+    PREMIUM
+}
