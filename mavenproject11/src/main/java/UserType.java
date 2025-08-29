@@ -10,3 +10,14 @@
 public class UserType {
     
 }
+// Папка: factory
+// Файл: UserType.java
+package factory;
+
+/**
+ * Enum типов пользователей
+ */
+public enum UserType {
+    REGULAR,    // Обычный пользователь
+    PREMIUM     // Премиум пользователь
+}
