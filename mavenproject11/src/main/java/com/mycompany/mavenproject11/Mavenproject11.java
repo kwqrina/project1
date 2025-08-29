@@ -15,4 +15,4 @@ public class Mavenproject11{
    public static void main(String[] args) {     //каждый класс должен быть в отдельном файле
         System.out.println("Привет");          //в отдельной папке?
     }                                         //в файле, дипсику так скажи он поймет
-}
+}                                             // ща исправлю тогда
