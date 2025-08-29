@@ -12,7 +12,7 @@ package com.mycompany.mavenproject11;
 
 public class Mavenproject11{
     
-   public static void main(String[] args) {
-        System.out.println("Привет");           //проверка
+   public static void main(String[] args) {     //каждый класс должен быть в отдельном файле
+        System.out.println("Привет");          
     }  
 }
