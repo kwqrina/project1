@@ -15,11 +15,11 @@ public class UserType {
 package model;
 
 /**
- * Enum типов пользователей
+ * Перечисление типов пользователей
  * REGULAR - обычный пользователь
  * PREMIUM - премиум пользователь
  */
 public enum UserType {
-    REGULAR,
-    PREMIUM
+    REGULAR,    // Обычный тип пользователя
+    PREMIUM     // Премиум тип пользователя
 }
